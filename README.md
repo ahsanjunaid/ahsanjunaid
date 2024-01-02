@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ahsan Junaid</h1>
 <h3 align="center">A Tech Enthusiast / Computer Scientist / Application Dev</h3>
 
-- 🔭 I’m currently working on setting up a **Cyber Home Lab And Mobile App**
+- 🔭 I’m currently working on setting up a **Cyber SOC Lab**
 
-- 🌱 I’m currently learning about **Cyber Security (SIEM / SOC, Digital Forensics) & Flutter (Mobile App Dev)**
+- 🌱 I’m currently learning about **Cyber Security (SIEM / SOC) & Mobile App Dev**
 
 
 
