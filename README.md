@@ -35,4 +35,5 @@
 <h4 align="left">Other Softwares</h4>
 <p align="left"> 
      <img src="https://skillicons.dev/icons?i=linux,cloudflare,visualstudio,ai,ps" />
+     <img class="avatar mr-2 d-none d-md-block" alt="Owner avatar" src="https://avatars.githubusercontent.com/u/6233056?s=48&amp;v=4">
 </p>
