@@ -72,7 +72,7 @@ Computer Science graduate with a passion for Cyber Security and Application Deve
 <table  align="center"><tr><td valign="top" width="50%">
 <br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/3837114/104152498-06fdad00-53e0-11eb-81fe-dcf318101b79.gif" align="center" height="" width="225" />
+<img src="https://user-images.githubusercontent.com/3837114/104152498-06fdad00-53e0-11eb-81fe-dcf318101b79.gif" align="center" height=""  />
 </div>  <br>
   
 
